@@ -20,3 +20,7 @@ Re4 is a list
     cat.cex = 0.8,
     cat.fontfamily = "serif"
   )
+
+
+<!-- ![Bias from gene structure](/home/aiminyan/GOSJ/Figure/BiasFromGeneStructure.png) -->
+![Bias from gene structure](/home/aiminyan/GOSJ/Figure/BiasFromGeneStructure.png)
