@@ -24,3 +24,12 @@ Re4 is a list
 
 <!-- ![Bias from gene structure](/home/aiminyan/GOSJ/Figure/BiasFromGeneStructure.png) -->
 ![Bias from gene structure](/home/aiminyan/GOSJ/Figure/BiasFromGeneStructure.png)
+
+If using command line:
+
+R CMD build PathwaySplice
+
+then 
+  
+  R CMD check PathwaySplice_0.1.0.tar.gz
+
